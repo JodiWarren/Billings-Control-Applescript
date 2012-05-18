@@ -1,3 +1,9 @@
+v2
+-----
+Awesome new perfect code from jackjr300 on StackOverflow: http://stackoverflow.com/questions/10636511/can-i-use-applescript-to-control-a-program-without-bringing-that-program-to-the/10642451#10642451
+
+v1
+-----
 Added Applescript to easily start/stop the current Billings timer.
 
 Use the Alfred Powerpack, Fast Scripts, or a cleverer method (let me know!) to map it to a keyboard shortcut.
